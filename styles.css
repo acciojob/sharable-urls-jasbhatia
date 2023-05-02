@@ -1,1 +1,16 @@
 
+body{
+	display:flex;
+	flex-direction:column;
+	width:35%;
+	margin-top:2em;
+	justify-content:center;
+	align-items:center;
+	gap:1em;
+}
+input{padding:0.2em;
+	 }
+button{
+	padding:0.5em 1em;
+	font-weight:bold;
+}
