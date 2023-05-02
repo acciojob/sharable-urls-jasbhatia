@@ -2,7 +2,7 @@
 body{
 	display:flex;
 	flex-direction:column;
-	width:35%;
+/* 	width:35%; */
 	margin-top:2em;
 	justify-content:center;
 	align-items:center;
