@@ -1,5 +1,5 @@
 // your code here
-let btn = document.getElementById("submit");
+let btn = document.getElementById("button");
 console.log(btn);
 btn.addEventListener("click", () => {
   // e.preventDefault();
